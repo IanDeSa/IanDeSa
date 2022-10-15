@@ -3,7 +3,7 @@
 
 - 🌱 Eu estou aprendendo sobre **backend.**
 
-- 💬 Estou estudando sobre **docker, SQL e NodeJs.**
+- 💬 Estou aprimaorando meus conhecimentos em Design Patterns e SOLID.
 
 - 📫 Fale comigo por: **contato.iansantos@gmail.com**
 
