@@ -3,7 +3,7 @@
 
 - 🌱 Eu estou aprendendo sobre **backend.**
 
-- 💬 Estou aprimaorando meus conhecimentos em Design Patterns e SOLID.
+- 💬 Estou aprimorando meus conhecimentos em Design Patterns e SOLID.
 
 - 📫 Fale comigo por: **contato.iansantos@gmail.com**
 
