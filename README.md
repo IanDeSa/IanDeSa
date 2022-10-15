@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Ian.</h1>
 <h3 align="center">Eu sou desenvolvedor web fullstack jr.</h3>
 
-- 🌱 Eu aprendendo a lidar com Programação Orientada a Objetos**
+- 🌱 Eu aprendendo sobre Programação Orientada a Objetos**
 
 - 💬 Estou aprimorando meus conhecimentos em Design Patterns e SOLID.
 
