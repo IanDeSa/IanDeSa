@@ -1,9 +1,9 @@
 <h1 align="center">Olá, meu nome é Ian.</h1>
-<h3 align="center">Eu sou desenvolvedor web fullstack jr.</h3>
+<h3 align="center">Eu sou desenvolvedor web fullstack.</h3>
 
-- 🌱 Eu aprendendo sobre Programação Orientada a Objetos**
+- 🚀 Minhas stacks principais são Node e Python, tenho experiência com grandes projetos voltados para monitoramento, dashboard e geolocalização.
 
-- 💬 Estou aprimorando meus conhecimentos em Design Patterns e SOLID.
+- 💬 Trabalhei com Angular e React no frontend, Nest, Django e Fastapi no backend, mas não sou limitado a essas tecnologias, eu gosto de desafios e problemas complexos.
 
 - 📫 Fale comigo por: **contato.iansantos@gmail.com**
 
